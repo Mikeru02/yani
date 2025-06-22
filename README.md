@@ -16,4 +16,45 @@ on user input.
 * Linux - `Ubuntu` (optional)
 
 ## :rocket: Usage 
-Run the script in the command line and you are good to go!
+Run the script `main.py` in the command line and you are good to go!
+
+## :speech_balloon: For Developers
+To add new set of trigger words and response of `YANI` kindly add it to the `.json` file. choose between `normal.json` and `genz.json`.
+Kindly follow this format in adding a new set of trigger words and response.
+```json
+"<category name>": {
+  "words": ["<insert trigger words here!>"],
+  "response": ["<insert response here!>"]
+}
+```
+Example in `genz.json`
+```json
+{
+  "greetings": {
+    "words": [
+      "hi",
+      "hello",
+      "hey",
+      "howdy",
+      "what's up",
+      "yo",
+      "good morning",
+      "good afternoon",
+      "good evening"
+    ],
+    "response": [
+      "Yo yo yo, what’s poppin’?",
+      "Hey bestie, you made it!",
+      "Ayooo, the vibes just got better",
+      "What’s up, legend? Let’s get into it",
+      "Hiiiii, missed you fr fr",
+      "Okayyy, you pulled up, let’s slay this convo",
+      "Hey hey! Big energy entering the chat",
+      "Yo, you just passed the vibe check",
+      "Hello hello, let’s make it a whole moment",
+      "Wassup fam! You good?"
+    ]
+  },
+}
+```
+Be creative on what do you want to trigger a response!
