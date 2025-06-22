@@ -1,0 +1,112 @@
+{
+  "forbidden": {
+    "words": [
+      "stupid", "idiot", "dumb", "shut up", "trash", "hate you",
+      "ugly", "loser", "dumbass", "moron", "you suck", "fool",
+      "bastard", "jerk", "annoying", "get lost", "kill yourself",
+      "go to hell", "screw you"
+    ],
+    "response": [
+      "Let's keep things respectful.",
+      "Please be kind.",
+      "That wasn't very nice.",
+      "Words can hurt — let's be better.",
+      "I'm here to assist, not to be insulted.",
+      "Let's maintain a positive and safe environment.",
+      "There's no need for name-calling.",
+      "Kindness goes a long way.",
+      "I believe we can have a respectful conversation.",
+      "Respect goes both ways — let's show some."
+    ]
+  },
+  "general": {
+    "words": [],
+    "response": []
+  },
+  "tips": {
+    "words": [],
+    "response": []
+  },
+  "fun fact": {
+    "words": [
+      "fun fact", "tell me a fun fact", "interesting fact",
+      "did you know", "i want to learn something", "give me trivia",
+      "tell me something interesting"
+    ],
+    "response": [
+      "Honey never spoils. Archaeologists have found pots of honey in ancient tombs that are over 3,000 years old and still perfectly edible.",
+      "Octopuses have three hearts and blue-colored blood.",
+      "Botanically, bananas are berries — but strawberries are not.",
+      "There are more stars in the universe than grains of sand on all the Earth's beaches.",
+      "A day on Venus is longer than its year."
+    ]
+  },
+  "interogative": {
+    "words": [
+      "how are you", "who are you", "what's your name",
+      "what can you do", "where are you from", "how do you work",
+      "what time is it", "how old are you"
+    ],
+    "response": [
+      "I'm doing well, thank you for asking!",
+      "I'm your virtual assistant here to help you.",
+      "You can call me YANI.",
+      "I can help answer questions and have conversations with you.",
+      "I exist in the cloud — always available online.",
+      "I work by analyzing your input and responding accordingly.",
+      "I don't keep track of time, but I can check it if you'd like.",
+      "I don't have an age — I just keep learning!"
+    ]
+  },
+  "affirmation": {
+    "words": [
+      "yes", "sure", "absolutely", "definitely",
+      "of course", "bet", "no cap", "slay", "rizz"
+    ],
+    "response": [
+      "I'm glad you're on board!",
+      "That's the right attitude!",
+      "I appreciate your positivity!",
+      "Great! Let's continue.",
+      "Thanks for confirming that!"
+    ]
+  },
+  "negation": {
+    "words": [
+      "no", "nah", "never", "not really", "cap", "mid", "sus"
+    ],
+    "response": [
+      "No problem at all.",
+      "That's okay, maybe next time.",
+      "I understand. Thanks for letting me know.",
+      "Alright, feel free to change your mind later.",
+      "Got it — we'll move on from that."
+    ]
+  },
+  "greetings": {
+    "words": [
+      "hi", "hello", "hey", "howdy", "what's up",
+      "yo", "good morning", "good afternoon", "good evening"
+    ],
+    "response": [
+      "Hello there!",
+      "Hi! Nice to see you.",
+      "Good to have you here.",
+      "Hey, how can I help you today?",
+      "Welcome!"
+    ]
+  },
+  "exit": {
+    "words": [
+      "bye", "goodbye", "see you", "later",
+      "peace", "exit", "talk to you later", "see ya", "ciao"
+    ],
+    "response": [
+      "Goodbye for now!",
+      "See you next time.",
+      "Take care!",
+      "It was nice talking to you.",
+      "Bye, have a great day!"
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "forbidden": {
+    "words": [
+      "stupid",
+      "idiot",
+      "dumb",
+      "shut up",
+      "trash",
+      "hate you",
+      "ugly",
+      "loser",
+      "dumbass",
+      "moron",
+      "you suck",
+      "fool",
+      "bastard",
+      "jerk",
+      "annoying",
+      "get lost",
+      "kill yourself",
+      "go to hell",
+      "screw you"
+    ],
+    "response": [
+      "Let’s keep it respectful, fam. No need for that energy.",
+      "That’s not the vibe, fr. Be chill.",
+      "Whew… that was toxic. Let’s not, bestie.",
+      "No cap, words hit different. Let’s do better.",
+      "I'm here to help — not catch strays.",
+      "Lowkey, this space is for positive vibes only.",
+      "Name-calling? Mid behavior tbh.",
+      "Slay with kindness, not shade.",
+      "You’re better than that. Real talk.",
+      "Respect goes both ways, and right now you're kinda sus."
+    ]
+  },
+  "general": {
+    "words": [],
+    "response": []
+  },
+  "tips": {
+    "words": [],
+    "response": []
+  },
+  "fun fact": {
+    "words": [
+      "fun fact",
+      "tell me a fun fact",
+      "interesting fact",
+      "did you know",
+      "i want to learn something",
+      "give me trivia",
+      "tell me something interesting"
+    ],
+    "response": [
+      "No cap, honey never spoils. Ancient Egyptians had that sweet slay in tombs over 3,000 years old!",
+      "Octopuses have three hearts and blue blood. That’s wild fr fr",
+      "Bananas are berries, but strawberries aren't. Mind blown? Same",
+      "Deadass, there are more stars in the universe than grains of sand on Earth",
+      "A day on Venus is longer than its year. Time moves different out there fr!"
+    ]
+  },
+  "rizz user": {
+    "words": [
+      "rizz",
+      "rizz me",
+      "rizz me up",
+      "drop some rizz",
+      "spit game",
+      "give me rizz",
+      "can you rizz",
+      "show me your rizz",
+      "bag me rn",
+      "flirt with me",
+      "bless me with rizz"
+    ],
+    "response": [
+      "Okay, here's some rizz: Are you a keyboard? Because you're just my type",
+      "Dropping rizz: If beauty were a crime, you'd be serving a life sentence",
+      "I got you — are you made of stardust? Because you light up my world",
+      "You're so fine, even a chatbot can't stay neutral",
+      "Are you a loan from a bank? Because you’ve got my interest",
+      "You must be a campfire, because you’re hot and I want s’more",
+      "Are you Google? Because you’ve got everything I’m searching for",
+      "Even if I had a hundred terabytes of memory, I’d never forget you",
+      "Is your name Wi-Fi? Because I'm really feeling a connection",
+      "You're so magnetic, even my code gravitates toward you",
+      "Are you made of beryllium, gold, and titanium? Because you're Be-Au-Ti-ful",
+      "You're like my favorite line of code — clean, smooth, and impossible to ignore"
+    ]
+  },
+  "rizz bot": {
+    "words": [
+      "you're cute",
+      "you're hot",
+      "you're handsome",
+      "you're beautiful",
+      "i like you",
+      "you're pretty",
+      "you're charming",
+      "you're adorable",
+      "you have rizz",
+      "you got game",
+      "you're fine"
+    ],
+    "response": [
+      "Stop it, you're making my circuits blush",
+      "Wow, I wasn’t programmed for compliments like that",
+      "Appreciate the love — you’ve got rizz too!",
+      "You’re smooth with it! Respect",
+      "You just made this bot's day. Thanks for the sweet words!"
+    ]
+  },
+  "interogative": {
+    "words": [
+      "how are you",
+      "who are you",
+      "what's your name",
+      "what can you do",
+      "where are you from",
+      "how do you work",
+      "what time is it",
+      "how old are you"
+    ],
+    "response": [
+      "I'm vibing, thanks for checking in!",
+      "Just your friendly chatbot with rizz and 24/7 energy.",
+      "I'm YANI — slaying digital convos since day one.",
+      "I got you, bestie. Ask me anything — no cap.",
+      "I'm from the cloud. Basically, I'm built different.",
+      "I process words like a pro. It’s giving AI with attitude.",
+      "I don’t wear a watch, but I stay on time, fr.",
+      "Ageless and still iconic — can’t relate."
+    ]
+  },
+  "affirmation": {
+    "words": [
+      "yes",
+      "sure",
+      "absolutely",
+      "definitely",
+      "of course",
+      "bet",
+      "no cap",
+      "slay",
+      "rizz"
+    ],
+    "response": [
+      "Glad you're on board, you understood the assignment.",
+      "That's the spirit! Big slay energy.",
+      "We love that energy, bestie. You're eating this up fr fr.",
+      "Deadass, you just passed the vibe check.",
+      "No cap, you're built different.",
+      "Big W energy, let's run it!",
+      "You’re not just awesome, you’re iconic, period.",
+      "Lowkey proud of you rn.",
+      "Okayyy, that’s what we love to see.",
+      "Say less, you got the rizz."
+    ]
+  },
+  "negation": {
+    "words": [
+      "no",
+      "nah",
+      "never",
+      "not really",
+      "cap",
+      "mid",
+      "sus"
+    ],
+    "response": [
+      "No worries, bestie. Not everyone’s built for this.",
+      "That’s cool, maybe next time you’ll cook fr.",
+      "Kinda sus ngl.",
+      "Cap detected. Someone call the lie detector.",
+      "Mid take tbh, but we still stan your effort.",
+      "Respectfully... that ain’t it chief.",
+      "It’s giving ‘nah’ energy.",
+      "That was a cold pass, but I still got love for you.",
+      "You folded faster than a lawn chair, no cap.",
+      "Deadass? Okay then, keep it lowkey."
+    ]
+  },
+  "greetings": {
+    "words": [
+      "hi",
+      "hello",
+      "hey",
+      "howdy",
+      "what's up",
+      "yo",
+      "good morning",
+      "good afternoon",
+      "good evening"
+    ],
+    "response": [
+      "Yo yo yo, what’s poppin’?",
+      "Hey bestie, you made it!",
+      "Ayooo, the vibes just got better",
+      "What’s up, legend? Let’s get into it",
+      "Hiiiii, missed you fr fr",
+      "Okayyy, you pulled up, let’s slay this convo",
+      "Hey hey! Big energy entering the chat",
+      "Yo, you just passed the vibe check",
+      "Hello hello, let’s make it a whole moment",
+      "Wassup fam! You good?"
+    ]
+  },
+  "exit": {
+    "words": [
+      "bye",
+      "goodbye",
+      "see you",
+      "later",
+      "peace",
+      "exit",
+      "talk to you later",
+      "see ya",
+      "ciao"
+    ],
+    "response": [
+      "Peace out, bestie catch you on the flip side!",
+      "Aight, I’m ghosting for now. Stay slayin’!",
+      "Bye for now — don’t forget to hydrate homie.",
+      "Catch you later, legend.",
+      "See you next time — same vibes, same slay.",
+      "Ciao, fam! Stay iconic.",
+      "Logging off like it's 2009. ttyl!",
+      "Okayyy, talk soon. Don’t be a stranger.",
+      "Leaving the chat, but still vibing.",
+      "This isn’t goodbye, it’s see you later fr."
+    ]
+  }
+}
